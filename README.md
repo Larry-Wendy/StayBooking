@@ -18,3 +18,5 @@
 * Finally, host can check their stays' reservation date, as shown in gif, guest Wendy reverse Cilf's stay.
 
   <img src="https://github.com/Larry-Wendy/StayBooking/blob/main/gif/checkreservation.gif" width="700" height="450"/>
+
+* The website may be disabled because developer has shutted down the AWS RDS, which could cost a great amount of money.
